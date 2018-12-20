@@ -1,0 +1,11 @@
+E:\Visual Studio\projects\Mole Shooter\Mole Shooter\bin\Debug\Mole Shooter.exe.config
+E:\Visual Studio\projects\Mole Shooter\Mole Shooter\bin\Debug\Mole Shooter.exe
+E:\Visual Studio\projects\Mole Shooter\Mole Shooter\bin\Debug\Mole Shooter.pdb
+E:\Visual Studio\projects\Mole Shooter\Mole Shooter\obj\Debug\Mole Shooter.csprojResolveAssemblyReference.cache
+E:\Visual Studio\projects\Mole Shooter\Mole Shooter\obj\Debug\Mole_Shooter.MoleShooter.resources
+E:\Visual Studio\projects\Mole Shooter\Mole Shooter\obj\Debug\Mole_Shooter.Properties.Resources.resources
+E:\Visual Studio\projects\Mole Shooter\Mole Shooter\obj\Debug\Mole Shooter.csproj.GenerateResource.Cache
+E:\Visual Studio\projects\Mole Shooter\Mole Shooter\obj\Debug\Mole Shooter.exe
+E:\Visual Studio\projects\Mole Shooter\Mole Shooter\obj\Debug\Mole Shooter.pdb
+E:\Visual Studio\projects\Mole Shooter\Mole Shooter\obj\Debug\Interop.WMPLib.dll
+E:\Visual Studio\projects\Mole Shooter\Mole Shooter\obj\Debug\Mole Shooter.csproj.ResolveComReference.cache
